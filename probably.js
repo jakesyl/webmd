@@ -5,5 +5,9 @@ window.probably = [
   "swamp gas",
   "jQuery",
   "clean sheets",
-  "botulism"
+  "botulism",
+  "herpes",
+  "aides",
+  "carl sagan",
+  "hitler"
 ];
